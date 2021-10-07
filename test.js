@@ -1,5 +1,5 @@
 function test() {
-  console.log("Hello World");
+  console.log("JavaScript is awesome!");
 }
 
 test();
